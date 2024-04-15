@@ -110,8 +110,9 @@ h3{
     overflow: hidden;
 }
 
-.location-col img{
+.location-col img{ /*ukoliko slike nisu iste velicine, mora se napraviti klasa za svkau kako bi se namestila velicina*/
     width: 100%;
+    height: 100%;
     display: block;
 }
 
